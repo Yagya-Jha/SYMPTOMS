@@ -1,0 +1,65 @@
+Fever, Coughing, and loss of smell are symptoms of COVID-19.
+Low fever might even be due to the common cold.
+Sneezing might be due to the common cold.
+
+Shortness of breath and persistent chest pain can be indicative of pneumonia.
+Frequent headaches, along with sensitivity to light, may signal migraines.
+
+Persistent fatigue and unexplained weight loss can be symptoms of various underlying health conditions, including cancer.
+Joint pain, stiffness, and swelling are common symptoms of rheumatoid arthritis.
+
+Abdominal pain, bloating, and changes in bowel habits can be indicative of irritable bowel syndrome (IBS).
+Excessive thirst, frequent urination, and unexplained weight loss are classic symptoms of diabetes.
+
+Sudden vision or eyesight changes, such as blurred or double vision, can be a sign of eye conditions like glaucoma.
+Memory loss, confusion, and difficulty concentrating may be early symptoms of Alzheimer's disease.
+
+Persistent cough, chest pain, and difficulty breathing could indicate lung diseases, including chronic obstructive pulmonary disease (COPD).
+Skin rashes, itching, and swelling may be symptoms of allergic reactions or dermatological conditions.
+
+Nausea, vomiting, and abdominal discomfort are common symptoms of gastroenteritis.
+Muscle weakness, tremors, and difficulty balancing can be indicative of neurological disorders like Parkinson's disease.
+
+Persistent sore throat, difficulty swallowing, and ear pain may be signs of tonsillitis or strep throat.
+Insomnia, daytime fatigue, and difficulty concentrating can be symptoms of sleep disorders like insomnia or sleep apnea.
+
+Persistent back pain, weakness, and numbness in the limbs may indicate spinal issues or herniated discs.
+Frequent mood swings, feelings of sadness, and loss of interest in activities can be symptoms of depression.
+
+Dizziness, nausea, and ringing in the ears may be symptoms of vertigo.
+Excessive sweating, rapid heartbeat, and trembling are common signs of anxiety attacks.
+
+Frequent nosebleeds, bleeding gums, and easy bruising can be indicative of blood clotting disorders.
+Abnormal vaginal bleeding, pelvic pain, and bloating are potential symptoms of ovarian cancer.
+
+Severe abdominal pain, vomiting blood, and dark, tarry stools may be signs of gastrointestinal bleeding.
+Yellowing of the skin and eyes, dark urine, and abdominal pain can indicate liver disease.
+
+Persistent coughing up blood can be a symptom of tuberculosis.
+Sudden, severe chest pain, and shortness of breath may indicate a heart attack.
+
+Seizures, loss of consciousness, and muscle stiffness are symptoms of epilepsy.
+Frequent urination, excessive thirst, and blurry vision are classic signs of diabetes.
+
+Extreme fatigue, pale skin, and shortness of breath can be indicative of anemia.
+Difficulty swallowing, unintentional weight loss, and persistent hoarseness may signal esophageal cancer.
+
+Frequent nosebleeds, easy bruising, and red or purple spots on the skin can be symptoms of leukemia.
+Chronic joint pain, stiffness, and swelling may indicate osteoarthritis.
+
+Unexplained weight loss, persistent cough, and chest pain are symptoms of lung cancer.
+Sudden, severe headache, visual disturbances, and confusion may be signs of a stroke.
+
+Severe abdominal pain, nausea, and vomiting can be symptoms of kidney stones.
+Frequent infections, fatigue, and enlarged lymph nodes are common signs of HIV/AIDS.
+
+Unexplained muscle pain, fatigue, and sleep disturbances may be indicative of fibromyalgia.
+Frequent heartburn, chest pain, and difficulty swallowing can be symptoms of gastroesophageal reflux disease (GERD).
+
+Persistent back pain, difficulty urinating, and numbness in the legs may be signs of spinal stenosis.
+Memory loss, confusion, and personality changes can be indicative of dementia.
+
+Frequent headaches, blurred vision, and nausea may be symptoms of migraines.
+Persistent cough, wheezing, and shortness of breath are common signs of asthma.
+
+These are general examples, and it's crucial to consult healthcare professionals for accurate diagnosis and appropriate treatment.
